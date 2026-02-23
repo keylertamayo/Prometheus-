@@ -32,3 +32,7 @@ class MemoryManager:
             if query in v:
                 results.append((k, v))
         return results
+
+    def recall_all(self):
+        """Return a copy of the entire memory dictionary."""
+        return self._load()

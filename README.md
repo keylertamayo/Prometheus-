@@ -37,5 +37,6 @@ This repository contains a simplified prototype for the "Aether" autonomous lear
 - Add new tasks via `agent.add_task(description)` in `main.py` or other modules.
 - Extend `SelfImprover` analysis logic with real parsing.
 - Use `MemoryManager` to persist agent state across runs.
+- The `Planner` module contains an adaptive decision engine that inspects memory and generates actions such as `profundizar:<topic>`, `investigar_relacionado:<topic>` or `introspeccion_segura` depending on past data. MemoryManager now exposes `recall_all()` for iterating stored entries.
 
 This code is intentionally simple; it forms the basis for further experimentation in a controlled sandbox environment.
