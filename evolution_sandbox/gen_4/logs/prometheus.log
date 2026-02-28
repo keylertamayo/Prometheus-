@@ -1,0 +1,11 @@
+2026-02-28 01:53:40 [PrometheusCore] Memoria cifrada inicializada.
+2026-02-28 01:53:40 [PrometheusCore] Núcleo inicializado correctamente.
+2026-02-28 01:53:40 [PrometheusCore] Manejadores de señal configurados.
+2026-02-28 01:53:40 [PrometheusCore] Iniciando bucle principal...
+2026-02-28 01:53:40 [Iter 1] Acción decidida: investigacion_general
+2026-02-28 01:53:45 [Iter 2] Acción decidida: investigacion_general
+2026-02-28 01:53:50 [Iter 3] Acción decidida: investigacion_general
+2026-02-28 01:53:55 [Iter 4] Acción decidida: investigacion_general
+2026-02-28 01:54:00 [Iter 5] Acción decidida: investigacion_general
+2026-02-28 01:54:05 [Iter 6] Acción decidida: investigacion_general
+2026-02-28 01:54:10 [PrometheusCore] Apagado graceful. Total iteraciones: 6

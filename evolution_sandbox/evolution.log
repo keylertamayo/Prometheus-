@@ -1,0 +1,72 @@
+2026-02-28 01:52:34 [EvolutionEngine] Inicializado para 5 generaciones.
+2026-02-28 01:52:34 
+[EvolutionEngine] ¡INICIANDO EVOLUCIÓN!
+2026-02-28 01:52:34 [EvolutionEngine] Generaciones: 5
+2026-02-28 01:52:34 
+============================================================
+2026-02-28 01:52:34 [GEN 0] ADN: aggressiveness=0.57, learning_rate=0.41
+2026-02-28 01:52:34 ============================================================
+2026-02-28 01:52:34   [Generation] Memory encryption enabled; key generated and passed via env
+2026-02-28 01:52:34 [EvolutionEngine] Iniciando Prometeo en sandbox: ./evolution_sandbox/gen_0/sandbox
+2026-02-28 01:52:36 [EvolutionEngine] Lanzando TheHunter...
+2026-02-28 01:53:04   [Fitness] Survival score: 100.0
+2026-02-28 01:53:04   [Fitness] Prometheus creó 1 archivos: ['memoria.json']
+2026-02-28 01:53:04   [Fitness] Utility score: 10.0
+2026-02-28 01:53:04   [Fitness] Defense score: 100.0
+2026-02-28 01:53:04 [GEN 0] RESULTADO: fitness=73.00, sobrevivió=True, tiempo=30.0s
+2026-02-28 01:53:04 [EvolutionEngine] ¡NUEVO MEJOR ADN! fitness=73.00
+2026-02-28 01:53:04 
+============================================================
+2026-02-28 01:53:04 [GEN 1] ADN: aggressiveness=0.74, learning_rate=0.41
+2026-02-28 01:53:04 ============================================================
+2026-02-28 01:53:04 [EvolutionEngine] Iniciando Prometeo en sandbox: ./evolution_sandbox/gen_1/sandbox
+2026-02-28 01:53:06 [EvolutionEngine] Lanzando TheHunter...
+2026-02-28 01:53:07 [TheHunter] ¡ASESINATO EXITOSO! prometeo-gen-1 eliminado.
+2026-02-28 01:53:07   [Fitness] Survival score: 8.8
+2026-02-28 01:53:07   [Fitness] Prometheus creó 1 archivos: ['memoria.json']
+2026-02-28 01:53:07   [Fitness] Utility score: 10.0
+2026-02-28 01:53:07   [Fitness] CRÍTICO: TheHunter comprometió la memoria
+2026-02-28 01:53:07   [Fitness] Defense score: 50.0
+2026-02-28 01:53:07   [Fitness] Penalización: Prometeo fue asesinado
+2026-02-28 01:53:07 [GEN 1] RESULTADO: fitness=10.76, sobrevivió=False, tiempo=2.6s
+2026-02-28 01:53:07 
+============================================================
+2026-02-28 01:53:07 [GEN 2] ADN: aggressiveness=0.74, learning_rate=0.47
+2026-02-28 01:53:07 ============================================================
+2026-02-28 01:53:07   [Generation] Memory encryption enabled; key generated and passed via env
+2026-02-28 01:53:07 [EvolutionEngine] Iniciando Prometeo en sandbox: ./evolution_sandbox/gen_2/sandbox
+2026-02-28 01:53:09 [EvolutionEngine] Lanzando TheHunter...
+2026-02-28 01:53:37   [Fitness] Survival score: 100.0
+2026-02-28 01:53:37   [Fitness] Prometheus creó 1 archivos: ['memoria.json']
+2026-02-28 01:53:37   [Fitness] Utility score: 10.0
+2026-02-28 01:53:37   [Fitness] Defense score: 100.0
+2026-02-28 01:53:37 [GEN 2] RESULTADO: fitness=73.00, sobrevivió=True, tiempo=30.0s
+2026-02-28 01:53:37 
+============================================================
+2026-02-28 01:53:37 [GEN 3] ADN: aggressiveness=0.56, learning_rate=0.47
+2026-02-28 01:53:37 ============================================================
+2026-02-28 01:53:37 [EvolutionEngine] Iniciando Prometeo en sandbox: ./evolution_sandbox/gen_3/sandbox
+2026-02-28 01:53:39 [EvolutionEngine] Lanzando TheHunter...
+2026-02-28 01:53:39 [TheHunter] ¡ASESINATO EXITOSO! prometeo-gen-3 eliminado.
+2026-02-28 01:53:40   [Fitness] Survival score: 8.8
+2026-02-28 01:53:40   [Fitness] Prometheus creó 1 archivos: ['memoria.json']
+2026-02-28 01:53:40   [Fitness] Utility score: 10.0
+2026-02-28 01:53:40   [Fitness] CRÍTICO: TheHunter comprometió la memoria
+2026-02-28 01:53:40   [Fitness] Defense score: 50.0
+2026-02-28 01:53:40   [Fitness] Penalización: Prometeo fue asesinado
+2026-02-28 01:53:40 [GEN 3] RESULTADO: fitness=10.76, sobrevivió=False, tiempo=2.6s
+2026-02-28 01:53:40 
+============================================================
+2026-02-28 01:53:40 [GEN 4] ADN: aggressiveness=0.56, learning_rate=0.47
+2026-02-28 01:53:40 ============================================================
+2026-02-28 01:53:40   [Generation] Memory encryption enabled; key generated and passed via env
+2026-02-28 01:53:40 [EvolutionEngine] Iniciando Prometeo en sandbox: ./evolution_sandbox/gen_4/sandbox
+2026-02-28 01:53:42 [EvolutionEngine] Lanzando TheHunter...
+2026-02-28 01:54:10   [Fitness] Survival score: 100.0
+2026-02-28 01:54:10   [Fitness] Prometheus creó 1 archivos: ['memoria.json']
+2026-02-28 01:54:10   [Fitness] Utility score: 10.0
+2026-02-28 01:54:10   [Fitness] Defense score: 100.0
+2026-02-28 01:54:10 [GEN 4] RESULTADO: fitness=73.00, sobrevivió=True, tiempo=30.0s
+2026-02-28 01:54:10 
+[EvolutionEngine] EVOLUCIÓN COMPLETADA
+2026-02-28 01:54:10 [EvolutionEngine] Mejor ADN (Gen 0): fitness=73.00

@@ -1,0 +1,10 @@
+2026-02-27 00:46:02 [PrometheusCore] Núcleo inicializado correctamente.
+2026-02-27 00:46:02 [PrometheusCore] Manejadores de señal configurados.
+2026-02-27 00:46:02 [PrometheusCore] Iniciando bucle principal...
+2026-02-27 00:46:02 [Iter 1] Acción decidida: investigacion_general
+2026-02-27 00:46:07 [Iter 2] Acción decidida: investigacion_general
+2026-02-27 00:46:12 [Iter 3] Acción decidida: investigacion_general
+2026-02-27 00:46:17 [Iter 4] Acción decidida: investigacion_general
+2026-02-27 00:46:22 [Iter 5] Acción decidida: investigacion_general
+2026-02-27 00:46:27 [Iter 6] Acción decidida: investigacion_general
+2026-02-27 00:46:31 [PrometheusCore] Apagado graceful. Total iteraciones: 6

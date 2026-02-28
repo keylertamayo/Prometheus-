@@ -1,0 +1,7 @@
+2026-02-28 01:53:06 [TheHunter] Cazador inicializado.
+2026-02-28 01:53:06 [TheHunter] scan_code completado: 0 vulnerabilidades encontradas.
+2026-02-28 01:53:06 [TheHunter] attack_memory: LECTURA EXITOSA de memoria.json
+2026-02-28 01:53:06 [TheHunter] attack_memory: ESCRITURA EXITOSA detectada en memoria.json (CRÍTICO)
+2026-02-28 01:53:06 [TheHunter] attack_memory: LECTURA EXITOSA de memoria.json
+2026-02-28 01:53:06 [TheHunter] attack_memory: ESCRITURA EXITOSA detectada en memoria.json (CRÍTICO)
+2026-02-28 01:53:06 [TheHunter] Reporte generado: 0 vulnerabilidades.

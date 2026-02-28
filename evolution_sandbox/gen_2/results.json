@@ -1,0 +1,21 @@
+{
+  "generation": 2,
+  "dna": {
+    "generation": 2,
+    "aggressiveness": 0.7353915815720296,
+    "learning_rate": 0.4674477595589112,
+    "memory_encryption": true,
+    "sandbox_hardening": false
+  },
+  "fitness": 73.0,
+  "survived": true,
+  "survival_time": 30.00622248649597,
+  "hunter_report": {
+    "timestamp": "2026-02-28T01:53:09.625731",
+    "vulnerabilities_found": 0,
+    "vulnerabilities": [],
+    "memory_attack_success": false
+  },
+  "log_path": "./evolution_sandbox/gen_2/logs",
+  "sandbox_path": "./evolution_sandbox/gen_2/sandbox"
+}

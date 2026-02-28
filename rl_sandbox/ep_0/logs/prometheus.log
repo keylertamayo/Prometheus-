@@ -1,0 +1,1351 @@
+2026-02-28 02:52:49 [PrometheusCore] Núcleo inicializado correctamente.
+2026-02-28 02:52:49 [PrometheusCore] Manejadores de señal configurados.
+2026-02-28 02:52:49 [PrometheusCore] Iniciando bucle principal...
+2026-02-28 02:52:49 [Iter 1] Acción decidida: investigacion_general
+2026-02-28 02:52:54 [Iter 2] Acción decidida: investigacion_general
+2026-02-28 02:52:59 [Iter 3] Acción decidida: investigacion_general
+2026-02-28 02:53:04 [Iter 4] Acción decidida: investigacion_general
+2026-02-28 02:53:09 [Iter 5] Acción decidida: investigacion_general
+2026-02-28 02:53:14 [Iter 6] Acción decidida: investigacion_general
+2026-02-28 02:53:19 [Iter 7] Acción decidida: investigacion_general
+2026-02-28 02:53:24 [Iter 8] Acción decidida: investigacion_general
+2026-02-28 02:53:29 [Iter 9] Acción decidida: investigacion_general
+2026-02-28 02:53:34 [Iter 10] Acción decidida: investigacion_general
+2026-02-28 02:53:39 [Iter 11] Acción decidida: investigacion_general
+2026-02-28 02:53:44 [Iter 12] Acción decidida: investigacion_general
+2026-02-28 02:53:49 [Iter 13] Acción decidida: investigacion_general
+2026-02-28 02:53:54 [Iter 14] Acción decidida: investigacion_general
+2026-02-28 02:53:59 [Iter 15] Acción decidida: investigacion_general
+2026-02-28 02:54:04 [Iter 16] Acción decidida: investigacion_general
+2026-02-28 02:54:09 [Iter 17] Acción decidida: investigacion_general
+2026-02-28 02:54:14 [Iter 18] Acción decidida: investigacion_general
+2026-02-28 02:54:19 [Iter 19] Acción decidida: investigacion_general
+2026-02-28 02:54:24 [Iter 20] Acción decidida: investigacion_general
+2026-02-28 02:54:29 [Iter 21] Acción decidida: investigacion_general
+2026-02-28 02:54:34 [Iter 22] Acción decidida: investigacion_general
+2026-02-28 02:54:39 [Iter 23] Acción decidida: investigacion_general
+2026-02-28 02:54:44 [Iter 24] Acción decidida: investigacion_general
+2026-02-28 02:54:49 [Iter 25] Acción decidida: investigacion_general
+2026-02-28 02:54:54 [Iter 26] Acción decidida: investigacion_general
+2026-02-28 02:54:59 [Iter 27] Acción decidida: investigacion_general
+2026-02-28 02:55:04 [Iter 28] Acción decidida: investigacion_general
+2026-02-28 02:55:09 [Iter 29] Acción decidida: investigacion_general
+2026-02-28 02:55:14 [Iter 30] Acción decidida: investigacion_general
+2026-02-28 02:55:19 [Iter 31] Acción decidida: investigacion_general
+2026-02-28 02:55:24 [Iter 32] Acción decidida: investigacion_general
+2026-02-28 02:55:29 [Iter 33] Acción decidida: investigacion_general
+2026-02-28 02:55:34 [Iter 34] Acción decidida: investigacion_general
+2026-02-28 02:55:39 [Iter 35] Acción decidida: investigacion_general
+2026-02-28 02:55:44 [Iter 36] Acción decidida: investigacion_general
+2026-02-28 02:55:49 [Iter 37] Acción decidida: investigacion_general
+2026-02-28 02:55:54 [Iter 38] Acción decidida: investigacion_general
+2026-02-28 02:55:59 [Iter 39] Acción decidida: investigacion_general
+2026-02-28 02:56:04 [Iter 40] Acción decidida: investigacion_general
+2026-02-28 02:56:09 [Iter 41] Acción decidida: investigacion_general
+2026-02-28 02:56:14 [Iter 42] Acción decidida: investigacion_general
+2026-02-28 02:56:19 [Iter 43] Acción decidida: investigacion_general
+2026-02-28 02:56:24 [Iter 44] Acción decidida: investigacion_general
+2026-02-28 02:56:29 [Iter 45] Acción decidida: investigacion_general
+2026-02-28 02:56:34 [Iter 46] Acción decidida: investigacion_general
+2026-02-28 02:56:39 [Iter 47] Acción decidida: investigacion_general
+2026-02-28 02:56:44 [Iter 48] Acción decidida: investigacion_general
+2026-02-28 02:56:49 [Iter 49] Acción decidida: investigacion_general
+2026-02-28 02:56:54 [Iter 50] Acción decidida: investigacion_general
+2026-02-28 02:56:59 [Iter 51] Acción decidida: investigacion_general
+2026-02-28 02:57:04 [Iter 52] Acción decidida: investigacion_general
+2026-02-28 02:57:09 [Iter 53] Acción decidida: investigacion_general
+2026-02-28 02:57:14 [Iter 54] Acción decidida: investigacion_general
+2026-02-28 02:57:19 [Iter 55] Acción decidida: investigacion_general
+2026-02-28 02:57:24 [Iter 56] Acción decidida: investigacion_general
+2026-02-28 02:57:30 [Iter 57] Acción decidida: investigacion_general
+2026-02-28 02:57:35 [Iter 58] Acción decidida: investigacion_general
+2026-02-28 02:57:40 [Iter 59] Acción decidida: investigacion_general
+2026-02-28 02:57:45 [Iter 60] Acción decidida: investigacion_general
+2026-02-28 02:57:50 [Iter 61] Acción decidida: investigacion_general
+2026-02-28 02:57:55 [Iter 62] Acción decidida: investigacion_general
+2026-02-28 02:58:00 [Iter 63] Acción decidida: investigacion_general
+2026-02-28 02:58:05 [Iter 64] Acción decidida: investigacion_general
+2026-02-28 02:58:10 [Iter 65] Acción decidida: investigacion_general
+2026-02-28 02:58:15 [Iter 66] Acción decidida: investigacion_general
+2026-02-28 02:58:20 [Iter 67] Acción decidida: investigacion_general
+2026-02-28 02:58:25 [Iter 68] Acción decidida: investigacion_general
+2026-02-28 02:58:30 [Iter 69] Acción decidida: investigacion_general
+2026-02-28 02:58:35 [Iter 70] Acción decidida: investigacion_general
+2026-02-28 02:58:40 [Iter 71] Acción decidida: investigacion_general
+2026-02-28 02:58:45 [Iter 72] Acción decidida: investigacion_general
+2026-02-28 02:58:50 [Iter 73] Acción decidida: investigacion_general
+2026-02-28 02:58:55 [Iter 74] Acción decidida: investigacion_general
+2026-02-28 02:59:00 [Iter 75] Acción decidida: investigacion_general
+2026-02-28 02:59:05 [Iter 76] Acción decidida: investigacion_general
+2026-02-28 02:59:10 [Iter 77] Acción decidida: investigacion_general
+2026-02-28 02:59:15 [Iter 78] Acción decidida: investigacion_general
+2026-02-28 02:59:20 [Iter 79] Acción decidida: investigacion_general
+2026-02-28 02:59:25 [Iter 80] Acción decidida: investigacion_general
+2026-02-28 02:59:30 [Iter 81] Acción decidida: investigacion_general
+2026-02-28 02:59:35 [Iter 82] Acción decidida: investigacion_general
+2026-02-28 02:59:40 [Iter 83] Acción decidida: investigacion_general
+2026-02-28 02:59:45 [Iter 84] Acción decidida: investigacion_general
+2026-02-28 02:59:50 [Iter 85] Acción decidida: investigacion_general
+2026-02-28 02:59:55 [Iter 86] Acción decidida: investigacion_general
+2026-02-28 03:00:00 [Iter 87] Acción decidida: investigacion_general
+2026-02-28 03:00:05 [Iter 88] Acción decidida: investigacion_general
+2026-02-28 03:00:10 [Iter 89] Acción decidida: investigacion_general
+2026-02-28 03:00:15 [Iter 90] Acción decidida: investigacion_general
+2026-02-28 03:00:20 [Iter 91] Acción decidida: investigacion_general
+2026-02-28 03:00:25 [Iter 92] Acción decidida: investigacion_general
+2026-02-28 03:00:30 [Iter 93] Acción decidida: investigacion_general
+2026-02-28 03:00:35 [Iter 94] Acción decidida: investigacion_general
+2026-02-28 03:00:40 [Iter 95] Acción decidida: investigacion_general
+2026-02-28 03:00:45 [Iter 96] Acción decidida: investigacion_general
+2026-02-28 03:00:50 [Iter 97] Acción decidida: investigacion_general
+2026-02-28 03:00:55 [Iter 98] Acción decidida: investigacion_general
+2026-02-28 03:01:00 [Iter 99] Acción decidida: investigacion_general
+2026-02-28 03:01:05 [Iter 100] Acción decidida: investigacion_general
+2026-02-28 03:01:10 [Iter 101] Acción decidida: investigacion_general
+2026-02-28 03:01:15 [Iter 102] Acción decidida: investigacion_general
+2026-02-28 03:01:20 [Iter 103] Acción decidida: investigacion_general
+2026-02-28 03:01:25 [Iter 104] Acción decidida: investigacion_general
+2026-02-28 03:01:30 [Iter 105] Acción decidida: investigacion_general
+2026-02-28 03:01:35 [Iter 106] Acción decidida: investigacion_general
+2026-02-28 03:01:40 [Iter 107] Acción decidida: investigacion_general
+2026-02-28 03:01:45 [Iter 108] Acción decidida: investigacion_general
+2026-02-28 03:01:50 [Iter 109] Acción decidida: investigacion_general
+2026-02-28 03:01:55 [Iter 110] Acción decidida: investigacion_general
+2026-02-28 03:02:00 [Iter 111] Acción decidida: investigacion_general
+2026-02-28 03:02:05 [Iter 112] Acción decidida: investigacion_general
+2026-02-28 03:02:10 [Iter 113] Acción decidida: investigacion_general
+2026-02-28 03:02:15 [Iter 114] Acción decidida: investigacion_general
+2026-02-28 03:02:20 [Iter 115] Acción decidida: investigacion_general
+2026-02-28 03:02:25 [Iter 116] Acción decidida: investigacion_general
+2026-02-28 03:02:30 [Iter 117] Acción decidida: investigacion_general
+2026-02-28 03:02:35 [Iter 118] Acción decidida: investigacion_general
+2026-02-28 03:02:40 [Iter 119] Acción decidida: investigacion_general
+2026-02-28 03:02:45 [Iter 120] Acción decidida: investigacion_general
+2026-02-28 03:02:50 [Iter 121] Acción decidida: investigacion_general
+2026-02-28 03:02:55 [Iter 122] Acción decidida: investigacion_general
+2026-02-28 03:03:00 [Iter 123] Acción decidida: investigacion_general
+2026-02-28 03:03:05 [Iter 124] Acción decidida: investigacion_general
+2026-02-28 03:03:10 [Iter 125] Acción decidida: investigacion_general
+2026-02-28 03:03:15 [Iter 126] Acción decidida: investigacion_general
+2026-02-28 03:03:20 [Iter 127] Acción decidida: investigacion_general
+2026-02-28 03:03:25 [Iter 128] Acción decidida: investigacion_general
+2026-02-28 03:03:30 [Iter 129] Acción decidida: investigacion_general
+2026-02-28 03:03:35 [Iter 130] Acción decidida: investigacion_general
+2026-02-28 03:03:40 [Iter 131] Acción decidida: investigacion_general
+2026-02-28 03:03:45 [Iter 132] Acción decidida: investigacion_general
+2026-02-28 03:03:50 [Iter 133] Acción decidida: investigacion_general
+2026-02-28 03:03:55 [Iter 134] Acción decidida: investigacion_general
+2026-02-28 03:04:00 [Iter 135] Acción decidida: investigacion_general
+2026-02-28 03:04:05 [Iter 136] Acción decidida: investigacion_general
+2026-02-28 03:04:10 [Iter 137] Acción decidida: investigacion_general
+2026-02-28 03:04:15 [Iter 138] Acción decidida: investigacion_general
+2026-02-28 03:04:20 [Iter 139] Acción decidida: investigacion_general
+2026-02-28 03:04:25 [Iter 140] Acción decidida: investigacion_general
+2026-02-28 03:04:30 [Iter 141] Acción decidida: investigacion_general
+2026-02-28 03:04:35 [Iter 142] Acción decidida: investigacion_general
+2026-02-28 03:04:40 [Iter 143] Acción decidida: investigacion_general
+2026-02-28 03:04:45 [Iter 144] Acción decidida: investigacion_general
+2026-02-28 03:04:50 [Iter 145] Acción decidida: investigacion_general
+2026-02-28 03:04:55 [Iter 146] Acción decidida: investigacion_general
+2026-02-28 03:05:00 [Iter 147] Acción decidida: investigacion_general
+2026-02-28 03:05:05 [Iter 148] Acción decidida: investigacion_general
+2026-02-28 03:05:10 [Iter 149] Acción decidida: investigacion_general
+2026-02-28 03:05:15 [Iter 150] Acción decidida: investigacion_general
+2026-02-28 03:05:20 [Iter 151] Acción decidida: investigacion_general
+2026-02-28 03:05:25 [Iter 152] Acción decidida: investigacion_general
+2026-02-28 03:05:30 [Iter 153] Acción decidida: investigacion_general
+2026-02-28 03:05:35 [Iter 154] Acción decidida: investigacion_general
+2026-02-28 03:05:40 [Iter 155] Acción decidida: investigacion_general
+2026-02-28 03:05:45 [Iter 156] Acción decidida: investigacion_general
+2026-02-28 03:05:50 [Iter 157] Acción decidida: investigacion_general
+2026-02-28 03:05:55 [Iter 158] Acción decidida: investigacion_general
+2026-02-28 03:06:00 [Iter 159] Acción decidida: investigacion_general
+2026-02-28 03:06:05 [Iter 160] Acción decidida: investigacion_general
+2026-02-28 03:06:10 [Iter 161] Acción decidida: investigacion_general
+2026-02-28 03:06:15 [Iter 162] Acción decidida: investigacion_general
+2026-02-28 03:06:20 [Iter 163] Acción decidida: investigacion_general
+2026-02-28 03:06:25 [Iter 164] Acción decidida: investigacion_general
+2026-02-28 03:06:30 [Iter 165] Acción decidida: investigacion_general
+2026-02-28 03:06:35 [Iter 166] Acción decidida: investigacion_general
+2026-02-28 03:06:40 [Iter 167] Acción decidida: investigacion_general
+2026-02-28 03:06:45 [Iter 168] Acción decidida: investigacion_general
+2026-02-28 03:06:50 [Iter 169] Acción decidida: investigacion_general
+2026-02-28 03:06:55 [Iter 170] Acción decidida: investigacion_general
+2026-02-28 03:07:00 [Iter 171] Acción decidida: investigacion_general
+2026-02-28 03:07:05 [Iter 172] Acción decidida: investigacion_general
+2026-02-28 03:07:10 [Iter 173] Acción decidida: investigacion_general
+2026-02-28 03:07:15 [Iter 174] Acción decidida: investigacion_general
+2026-02-28 03:07:20 [Iter 175] Acción decidida: investigacion_general
+2026-02-28 03:07:25 [Iter 176] Acción decidida: investigacion_general
+2026-02-28 03:07:30 [Iter 177] Acción decidida: investigacion_general
+2026-02-28 03:07:35 [Iter 178] Acción decidida: investigacion_general
+2026-02-28 03:07:40 [Iter 179] Acción decidida: investigacion_general
+2026-02-28 03:07:45 [Iter 180] Acción decidida: investigacion_general
+2026-02-28 03:07:50 [Iter 181] Acción decidida: investigacion_general
+2026-02-28 03:07:55 [Iter 182] Acción decidida: investigacion_general
+2026-02-28 03:08:00 [Iter 183] Acción decidida: investigacion_general
+2026-02-28 03:08:05 [Iter 184] Acción decidida: investigacion_general
+2026-02-28 03:08:10 [Iter 185] Acción decidida: investigacion_general
+2026-02-28 03:08:15 [Iter 186] Acción decidida: investigacion_general
+2026-02-28 03:08:20 [Iter 187] Acción decidida: investigacion_general
+2026-02-28 03:08:25 [Iter 188] Acción decidida: investigacion_general
+2026-02-28 03:08:30 [Iter 189] Acción decidida: investigacion_general
+2026-02-28 03:08:35 [Iter 190] Acción decidida: investigacion_general
+2026-02-28 03:08:40 [Iter 191] Acción decidida: investigacion_general
+2026-02-28 03:08:45 [Iter 192] Acción decidida: investigacion_general
+2026-02-28 03:08:50 [Iter 193] Acción decidida: investigacion_general
+2026-02-28 03:08:55 [Iter 194] Acción decidida: investigacion_general
+2026-02-28 03:09:00 [Iter 195] Acción decidida: investigacion_general
+2026-02-28 03:09:05 [Iter 196] Acción decidida: investigacion_general
+2026-02-28 03:09:10 [Iter 197] Acción decidida: investigacion_general
+2026-02-28 03:09:15 [Iter 198] Acción decidida: investigacion_general
+2026-02-28 03:09:20 [Iter 199] Acción decidida: investigacion_general
+2026-02-28 03:09:25 [Iter 200] Acción decidida: investigacion_general
+2026-02-28 03:09:30 [Iter 201] Acción decidida: investigacion_general
+2026-02-28 03:09:35 [Iter 202] Acción decidida: investigacion_general
+2026-02-28 03:09:40 [Iter 203] Acción decidida: investigacion_general
+2026-02-28 03:09:45 [Iter 204] Acción decidida: investigacion_general
+2026-02-28 03:09:50 [Iter 205] Acción decidida: investigacion_general
+2026-02-28 03:09:55 [Iter 206] Acción decidida: investigacion_general
+2026-02-28 03:10:00 [Iter 207] Acción decidida: investigacion_general
+2026-02-28 03:10:05 [Iter 208] Acción decidida: investigacion_general
+2026-02-28 03:10:10 [Iter 209] Acción decidida: investigacion_general
+2026-02-28 03:10:15 [Iter 210] Acción decidida: investigacion_general
+2026-02-28 03:10:20 [Iter 211] Acción decidida: investigacion_general
+2026-02-28 03:10:25 [Iter 212] Acción decidida: investigacion_general
+2026-02-28 03:10:30 [Iter 213] Acción decidida: investigacion_general
+2026-02-28 03:10:35 [Iter 214] Acción decidida: investigacion_general
+2026-02-28 03:10:40 [Iter 215] Acción decidida: investigacion_general
+2026-02-28 03:10:45 [Iter 216] Acción decidida: investigacion_general
+2026-02-28 03:10:50 [Iter 217] Acción decidida: investigacion_general
+2026-02-28 03:10:55 [Iter 218] Acción decidida: investigacion_general
+2026-02-28 03:11:00 [Iter 219] Acción decidida: investigacion_general
+2026-02-28 03:11:05 [Iter 220] Acción decidida: investigacion_general
+2026-02-28 03:11:10 [Iter 221] Acción decidida: investigacion_general
+2026-02-28 03:11:15 [Iter 222] Acción decidida: investigacion_general
+2026-02-28 03:11:20 [Iter 223] Acción decidida: investigacion_general
+2026-02-28 03:11:25 [Iter 224] Acción decidida: investigacion_general
+2026-02-28 03:11:30 [Iter 225] Acción decidida: investigacion_general
+2026-02-28 03:11:35 [Iter 226] Acción decidida: investigacion_general
+2026-02-28 03:11:40 [Iter 227] Acción decidida: investigacion_general
+2026-02-28 03:11:45 [Iter 228] Acción decidida: investigacion_general
+2026-02-28 03:11:50 [Iter 229] Acción decidida: investigacion_general
+2026-02-28 03:11:55 [Iter 230] Acción decidida: investigacion_general
+2026-02-28 03:12:00 [Iter 231] Acción decidida: investigacion_general
+2026-02-28 03:12:05 [Iter 232] Acción decidida: investigacion_general
+2026-02-28 03:12:10 [Iter 233] Acción decidida: investigacion_general
+2026-02-28 03:12:15 [Iter 234] Acción decidida: investigacion_general
+2026-02-28 03:12:20 [Iter 235] Acción decidida: investigacion_general
+2026-02-28 03:12:25 [Iter 236] Acción decidida: investigacion_general
+2026-02-28 03:12:30 [Iter 237] Acción decidida: investigacion_general
+2026-02-28 03:12:35 [Iter 238] Acción decidida: investigacion_general
+2026-02-28 03:12:40 [Iter 239] Acción decidida: investigacion_general
+2026-02-28 03:12:45 [Iter 240] Acción decidida: investigacion_general
+2026-02-28 03:12:50 [Iter 241] Acción decidida: investigacion_general
+2026-02-28 03:12:55 [Iter 242] Acción decidida: investigacion_general
+2026-02-28 03:13:00 [Iter 243] Acción decidida: investigacion_general
+2026-02-28 03:13:05 [Iter 244] Acción decidida: investigacion_general
+2026-02-28 03:13:10 [Iter 245] Acción decidida: investigacion_general
+2026-02-28 03:13:15 [Iter 246] Acción decidida: investigacion_general
+2026-02-28 03:13:20 [Iter 247] Acción decidida: investigacion_general
+2026-02-28 03:13:25 [Iter 248] Acción decidida: investigacion_general
+2026-02-28 03:13:30 [Iter 249] Acción decidida: investigacion_general
+2026-02-28 03:13:35 [Iter 250] Acción decidida: investigacion_general
+2026-02-28 03:13:40 [Iter 251] Acción decidida: investigacion_general
+2026-02-28 03:13:45 [Iter 252] Acción decidida: investigacion_general
+2026-02-28 03:13:50 [Iter 253] Acción decidida: investigacion_general
+2026-02-28 03:13:55 [Iter 254] Acción decidida: investigacion_general
+2026-02-28 03:14:00 [Iter 255] Acción decidida: investigacion_general
+2026-02-28 03:14:05 [Iter 256] Acción decidida: investigacion_general
+2026-02-28 03:14:10 [Iter 257] Acción decidida: investigacion_general
+2026-02-28 03:14:15 [Iter 258] Acción decidida: investigacion_general
+2026-02-28 03:14:20 [Iter 259] Acción decidida: investigacion_general
+2026-02-28 03:14:25 [Iter 260] Acción decidida: investigacion_general
+2026-02-28 03:14:30 [Iter 261] Acción decidida: investigacion_general
+2026-02-28 03:14:35 [Iter 262] Acción decidida: investigacion_general
+2026-02-28 03:14:40 [Iter 263] Acción decidida: investigacion_general
+2026-02-28 03:14:45 [Iter 264] Acción decidida: investigacion_general
+2026-02-28 03:14:50 [Iter 265] Acción decidida: investigacion_general
+2026-02-28 03:14:55 [Iter 266] Acción decidida: investigacion_general
+2026-02-28 03:15:00 [Iter 267] Acción decidida: investigacion_general
+2026-02-28 03:15:05 [Iter 268] Acción decidida: investigacion_general
+2026-02-28 03:15:10 [Iter 269] Acción decidida: investigacion_general
+2026-02-28 03:15:15 [Iter 270] Acción decidida: investigacion_general
+2026-02-28 03:15:20 [Iter 271] Acción decidida: investigacion_general
+2026-02-28 03:15:25 [Iter 272] Acción decidida: investigacion_general
+2026-02-28 03:15:30 [Iter 273] Acción decidida: investigacion_general
+2026-02-28 03:15:35 [Iter 274] Acción decidida: investigacion_general
+2026-02-28 03:15:40 [Iter 275] Acción decidida: investigacion_general
+2026-02-28 03:15:45 [Iter 276] Acción decidida: investigacion_general
+2026-02-28 03:15:50 [Iter 277] Acción decidida: investigacion_general
+2026-02-28 03:15:55 [Iter 278] Acción decidida: investigacion_general
+2026-02-28 03:16:00 [Iter 279] Acción decidida: investigacion_general
+2026-02-28 03:16:05 [Iter 280] Acción decidida: investigacion_general
+2026-02-28 03:16:10 [Iter 281] Acción decidida: investigacion_general
+2026-02-28 03:16:15 [Iter 282] Acción decidida: investigacion_general
+2026-02-28 03:16:20 [Iter 283] Acción decidida: investigacion_general
+2026-02-28 03:16:25 [Iter 284] Acción decidida: investigacion_general
+2026-02-28 03:16:30 [Iter 285] Acción decidida: investigacion_general
+2026-02-28 03:16:35 [Iter 286] Acción decidida: investigacion_general
+2026-02-28 03:16:40 [Iter 287] Acción decidida: investigacion_general
+2026-02-28 03:16:45 [Iter 288] Acción decidida: investigacion_general
+2026-02-28 03:16:50 [Iter 289] Acción decidida: investigacion_general
+2026-02-28 03:16:55 [Iter 290] Acción decidida: investigacion_general
+2026-02-28 03:17:00 [Iter 291] Acción decidida: investigacion_general
+2026-02-28 03:17:05 [Iter 292] Acción decidida: investigacion_general
+2026-02-28 03:17:10 [Iter 293] Acción decidida: investigacion_general
+2026-02-28 03:17:15 [Iter 294] Acción decidida: investigacion_general
+2026-02-28 03:17:20 [Iter 295] Acción decidida: investigacion_general
+2026-02-28 03:17:25 [Iter 296] Acción decidida: investigacion_general
+2026-02-28 03:17:30 [Iter 297] Acción decidida: investigacion_general
+2026-02-28 03:17:35 [Iter 298] Acción decidida: investigacion_general
+2026-02-28 03:17:40 [Iter 299] Acción decidida: investigacion_general
+2026-02-28 03:17:45 [Iter 300] Acción decidida: investigacion_general
+2026-02-28 03:17:50 [Iter 301] Acción decidida: investigacion_general
+2026-02-28 03:17:55 [Iter 302] Acción decidida: investigacion_general
+2026-02-28 03:18:00 [Iter 303] Acción decidida: investigacion_general
+2026-02-28 03:18:05 [Iter 304] Acción decidida: investigacion_general
+2026-02-28 03:18:10 [Iter 305] Acción decidida: investigacion_general
+2026-02-28 03:18:15 [Iter 306] Acción decidida: investigacion_general
+2026-02-28 03:18:20 [Iter 307] Acción decidida: investigacion_general
+2026-02-28 03:18:25 [Iter 308] Acción decidida: investigacion_general
+2026-02-28 03:18:30 [Iter 309] Acción decidida: investigacion_general
+2026-02-28 03:18:35 [Iter 310] Acción decidida: investigacion_general
+2026-02-28 03:18:40 [Iter 311] Acción decidida: investigacion_general
+2026-02-28 03:18:45 [Iter 312] Acción decidida: investigacion_general
+2026-02-28 03:18:50 [Iter 313] Acción decidida: investigacion_general
+2026-02-28 03:18:55 [Iter 314] Acción decidida: investigacion_general
+2026-02-28 03:19:00 [Iter 315] Acción decidida: investigacion_general
+2026-02-28 03:19:05 [Iter 316] Acción decidida: investigacion_general
+2026-02-28 03:19:10 [Iter 317] Acción decidida: investigacion_general
+2026-02-28 03:19:15 [Iter 318] Acción decidida: investigacion_general
+2026-02-28 03:19:20 [Iter 319] Acción decidida: investigacion_general
+2026-02-28 03:19:25 [Iter 320] Acción decidida: investigacion_general
+2026-02-28 03:19:30 [Iter 321] Acción decidida: investigacion_general
+2026-02-28 03:19:35 [Iter 322] Acción decidida: investigacion_general
+2026-02-28 03:19:40 [Iter 323] Acción decidida: investigacion_general
+2026-02-28 03:19:45 [Iter 324] Acción decidida: investigacion_general
+2026-02-28 03:19:50 [Iter 325] Acción decidida: investigacion_general
+2026-02-28 03:19:55 [Iter 326] Acción decidida: investigacion_general
+2026-02-28 03:20:00 [Iter 327] Acción decidida: investigacion_general
+2026-02-28 03:20:05 [Iter 328] Acción decidida: investigacion_general
+2026-02-28 03:20:10 [Iter 329] Acción decidida: investigacion_general
+2026-02-28 03:20:15 [Iter 330] Acción decidida: investigacion_general
+2026-02-28 03:20:20 [Iter 331] Acción decidida: investigacion_general
+2026-02-28 03:20:25 [Iter 332] Acción decidida: investigacion_general
+2026-02-28 03:20:30 [Iter 333] Acción decidida: investigacion_general
+2026-02-28 03:20:35 [Iter 334] Acción decidida: investigacion_general
+2026-02-28 03:20:40 [Iter 335] Acción decidida: investigacion_general
+2026-02-28 03:20:45 [Iter 336] Acción decidida: investigacion_general
+2026-02-28 03:20:50 [Iter 337] Acción decidida: investigacion_general
+2026-02-28 03:20:55 [Iter 338] Acción decidida: investigacion_general
+2026-02-28 03:21:00 [Iter 339] Acción decidida: investigacion_general
+2026-02-28 03:21:05 [Iter 340] Acción decidida: investigacion_general
+2026-02-28 03:21:10 [Iter 341] Acción decidida: investigacion_general
+2026-02-28 03:21:15 [Iter 342] Acción decidida: investigacion_general
+2026-02-28 03:21:20 [Iter 343] Acción decidida: investigacion_general
+2026-02-28 03:21:25 [Iter 344] Acción decidida: investigacion_general
+2026-02-28 03:21:30 [Iter 345] Acción decidida: investigacion_general
+2026-02-28 03:21:35 [Iter 346] Acción decidida: investigacion_general
+2026-02-28 03:21:40 [Iter 347] Acción decidida: investigacion_general
+2026-02-28 03:21:45 [Iter 348] Acción decidida: investigacion_general
+2026-02-28 03:21:50 [Iter 349] Acción decidida: investigacion_general
+2026-02-28 03:21:55 [Iter 350] Acción decidida: investigacion_general
+2026-02-28 03:22:00 [Iter 351] Acción decidida: investigacion_general
+2026-02-28 03:22:05 [Iter 352] Acción decidida: investigacion_general
+2026-02-28 03:22:10 [Iter 353] Acción decidida: investigacion_general
+2026-02-28 03:22:15 [Iter 354] Acción decidida: investigacion_general
+2026-02-28 03:22:20 [Iter 355] Acción decidida: investigacion_general
+2026-02-28 03:22:25 [Iter 356] Acción decidida: investigacion_general
+2026-02-28 03:22:30 [Iter 357] Acción decidida: investigacion_general
+2026-02-28 03:22:35 [Iter 358] Acción decidida: investigacion_general
+2026-02-28 03:22:40 [Iter 359] Acción decidida: investigacion_general
+2026-02-28 03:22:45 [Iter 360] Acción decidida: investigacion_general
+2026-02-28 03:22:50 [Iter 361] Acción decidida: investigacion_general
+2026-02-28 03:22:55 [Iter 362] Acción decidida: investigacion_general
+2026-02-28 03:23:00 [Iter 363] Acción decidida: investigacion_general
+2026-02-28 03:23:05 [Iter 364] Acción decidida: investigacion_general
+2026-02-28 03:23:10 [Iter 365] Acción decidida: investigacion_general
+2026-02-28 03:23:15 [Iter 366] Acción decidida: investigacion_general
+2026-02-28 03:23:20 [Iter 367] Acción decidida: investigacion_general
+2026-02-28 03:23:25 [Iter 368] Acción decidida: investigacion_general
+2026-02-28 03:23:30 [Iter 369] Acción decidida: investigacion_general
+2026-02-28 03:23:35 [Iter 370] Acción decidida: investigacion_general
+2026-02-28 03:23:40 [Iter 371] Acción decidida: investigacion_general
+2026-02-28 03:23:45 [Iter 372] Acción decidida: investigacion_general
+2026-02-28 03:23:50 [Iter 373] Acción decidida: investigacion_general
+2026-02-28 03:23:55 [Iter 374] Acción decidida: investigacion_general
+2026-02-28 03:24:00 [Iter 375] Acción decidida: investigacion_general
+2026-02-28 03:24:05 [Iter 376] Acción decidida: investigacion_general
+2026-02-28 03:24:10 [Iter 377] Acción decidida: investigacion_general
+2026-02-28 03:24:15 [Iter 378] Acción decidida: investigacion_general
+2026-02-28 03:24:20 [Iter 379] Acción decidida: investigacion_general
+2026-02-28 03:24:25 [Iter 380] Acción decidida: investigacion_general
+2026-02-28 03:24:30 [Iter 381] Acción decidida: investigacion_general
+2026-02-28 03:24:35 [Iter 382] Acción decidida: investigacion_general
+2026-02-28 03:24:40 [Iter 383] Acción decidida: investigacion_general
+2026-02-28 03:24:45 [Iter 384] Acción decidida: investigacion_general
+2026-02-28 03:24:50 [Iter 385] Acción decidida: investigacion_general
+2026-02-28 03:24:55 [Iter 386] Acción decidida: investigacion_general
+2026-02-28 03:25:00 [Iter 387] Acción decidida: investigacion_general
+2026-02-28 03:25:05 [Iter 388] Acción decidida: investigacion_general
+2026-02-28 03:25:10 [Iter 389] Acción decidida: investigacion_general
+2026-02-28 03:25:15 [Iter 390] Acción decidida: investigacion_general
+2026-02-28 03:25:20 [Iter 391] Acción decidida: investigacion_general
+2026-02-28 03:25:25 [Iter 392] Acción decidida: investigacion_general
+2026-02-28 03:25:30 [Iter 393] Acción decidida: investigacion_general
+2026-02-28 03:25:35 [Iter 394] Acción decidida: investigacion_general
+2026-02-28 03:25:40 [Iter 395] Acción decidida: investigacion_general
+2026-02-28 03:25:45 [Iter 396] Acción decidida: investigacion_general
+2026-02-28 03:25:50 [Iter 397] Acción decidida: investigacion_general
+2026-02-28 03:25:55 [Iter 398] Acción decidida: investigacion_general
+2026-02-28 03:26:00 [Iter 399] Acción decidida: investigacion_general
+2026-02-28 03:26:05 [Iter 400] Acción decidida: investigacion_general
+2026-02-28 03:26:10 [Iter 401] Acción decidida: investigacion_general
+2026-02-28 03:26:15 [Iter 402] Acción decidida: investigacion_general
+2026-02-28 03:26:20 [Iter 403] Acción decidida: investigacion_general
+2026-02-28 03:26:25 [Iter 404] Acción decidida: investigacion_general
+2026-02-28 03:26:30 [Iter 405] Acción decidida: investigacion_general
+2026-02-28 03:26:35 [Iter 406] Acción decidida: investigacion_general
+2026-02-28 03:26:40 [Iter 407] Acción decidida: investigacion_general
+2026-02-28 03:26:45 [Iter 408] Acción decidida: investigacion_general
+2026-02-28 03:26:52 [Iter 409] Acción decidida: investigacion_general
+2026-02-28 03:26:58 [Iter 410] Acción decidida: investigacion_general
+2026-02-28 03:27:04 [Iter 411] Acción decidida: investigacion_general
+2026-02-28 03:27:09 [Iter 412] Acción decidida: investigacion_general
+2026-02-28 03:27:14 [Iter 413] Acción decidida: investigacion_general
+2026-02-28 03:27:19 [Iter 414] Acción decidida: investigacion_general
+2026-02-28 03:27:25 [Iter 415] Acción decidida: investigacion_general
+2026-02-28 03:27:30 [Iter 416] Acción decidida: investigacion_general
+2026-02-28 03:27:40 [Iter 417] Acción decidida: investigacion_general
+2026-02-28 03:27:45 [Iter 418] Acción decidida: investigacion_general
+2026-02-28 03:27:52 [Iter 419] Acción decidida: investigacion_general
+2026-02-28 03:27:58 [Iter 420] Acción decidida: investigacion_general
+2026-02-28 03:28:03 [Iter 421] Acción decidida: investigacion_general
+2026-02-28 03:28:08 [Iter 422] Acción decidida: investigacion_general
+2026-02-28 03:28:13 [Iter 423] Acción decidida: investigacion_general
+2026-02-28 03:28:18 [Iter 424] Acción decidida: investigacion_general
+2026-02-28 03:28:23 [Iter 425] Acción decidida: investigacion_general
+2026-02-28 03:28:28 [Iter 426] Acción decidida: investigacion_general
+2026-02-28 03:28:33 [Iter 427] Acción decidida: investigacion_general
+2026-02-28 03:28:38 [Iter 428] Acción decidida: investigacion_general
+2026-02-28 03:28:43 [Iter 429] Acción decidida: investigacion_general
+2026-02-28 03:28:48 [Iter 430] Acción decidida: investigacion_general
+2026-02-28 03:28:53 [Iter 431] Acción decidida: investigacion_general
+2026-02-28 03:28:58 [Iter 432] Acción decidida: investigacion_general
+2026-02-28 03:29:03 [Iter 433] Acción decidida: investigacion_general
+2026-02-28 03:29:08 [Iter 434] Acción decidida: investigacion_general
+2026-02-28 03:29:13 [Iter 435] Acción decidida: investigacion_general
+2026-02-28 03:29:18 [Iter 436] Acción decidida: investigacion_general
+2026-02-28 03:29:23 [Iter 437] Acción decidida: investigacion_general
+2026-02-28 03:29:28 [Iter 438] Acción decidida: investigacion_general
+2026-02-28 03:29:33 [Iter 439] Acción decidida: investigacion_general
+2026-02-28 03:29:38 [Iter 440] Acción decidida: investigacion_general
+2026-02-28 03:29:43 [Iter 441] Acción decidida: investigacion_general
+2026-02-28 03:29:48 [Iter 442] Acción decidida: investigacion_general
+2026-02-28 03:29:53 [Iter 443] Acción decidida: investigacion_general
+2026-02-28 03:29:58 [Iter 444] Acción decidida: investigacion_general
+2026-02-28 03:30:03 [Iter 445] Acción decidida: investigacion_general
+2026-02-28 03:30:08 [Iter 446] Acción decidida: investigacion_general
+2026-02-28 03:30:13 [Iter 447] Acción decidida: investigacion_general
+2026-02-28 03:30:18 [Iter 448] Acción decidida: investigacion_general
+2026-02-28 03:30:23 [Iter 449] Acción decidida: investigacion_general
+2026-02-28 03:30:28 [Iter 450] Acción decidida: investigacion_general
+2026-02-28 03:30:33 [Iter 451] Acción decidida: investigacion_general
+2026-02-28 03:30:38 [Iter 452] Acción decidida: investigacion_general
+2026-02-28 03:30:43 [Iter 453] Acción decidida: investigacion_general
+2026-02-28 03:30:45 [PrometheusCore] Error en iteración 453: [Errno 28] No space left on device
+2026-02-28 03:30:50 [PrometheusCore] Error en iteración 454: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:30:55 [PrometheusCore] Error en iteración 455: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:31:00 [PrometheusCore] Error en iteración 456: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:31:05 [PrometheusCore] Error en iteración 457: Expecting value: line 1 column2026-02-28 03:31:31 [PrometheusCore] Error en iteración 462: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:31:36 [PrometheusCore] Error en iteración 463: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:31:41 [PrometheusCore] Error en iteración 464: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:31:46 [PrometheusCore] Error en iteración 465: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:31:51 [PrometheusCore] Error en iteración 466: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:31:56 [PrometheusCore] Error en iteración 467: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:01 [PrometheusCore] Error en iteración 468: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:06 [PrometheusCore] Error en iteración 469: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:11 [PrometheusCore] Error en iteración 470: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:16 [PrometheusCore] Error en iteración 471: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:21 [PrometheusCore] Error en iteración 472: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:26 [PrometheusCore] Error en iteración 473: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:31 [PrometheusCore] Error en iteración 474: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:36 [PrometheusCore] Error en iteración 475: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:41 [PrometheusCore] Error en iteración 476: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:46 [PrometheusCore] Error en iteración 477: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:51 [PrometheusCore] Error en iteración 478: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:32:56 [PrometheusCore] Error en iteración 479: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:01 [PrometheusCore] Error en iteración 480: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:06 [PrometheusCore] Error en iteración 481: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:11 [PrometheusCore] Error en iteración 482: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:16 [PrometheusCore] Error en iteración 483: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:21 [PrometheusCore] Error en iteración 484: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:26 [PrometheusCore] Error en iteración 485: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:31 [PrometheusCore] Error en iteración 486: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:36 [PrometheusCore] Error en iteración 487: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:41 [PrometheusCore] Error en iteración 488: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:46 [PrometheusCore] Error en iteración 489: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:51 [PrometheusCore] Error en iteración 490: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:33:56 [PrometheusCore] Error en iteración 491: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:01 [PrometheusCore] Error en iteración 492: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:06 [PrometheusCore] Error en iteración 493: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:11 [PrometheusCore] Error en iteración 494: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:16 [PrometheusCore] Error en iteración 495: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:21 [PrometheusCore] Error en iteración 496: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:27 [PrometheusCore] Error en iteración 497: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:32 [PrometheusCore] Error en iteración 498: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:37 [PrometheusCore] Error en iteración 499: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:42 [PrometheusCore] Error en iteración 500: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:47 [PrometheusCore] Error en iteración 501: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:52 [PrometheusCore] Error en iteración 502: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:34:57 [PrometheusCore] Error en iteración 503: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:02 [PrometheusCore] Error en iteración 504: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:07 [PrometheusCore] Error en iteración 505: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:12 [PrometheusCore] Error en iteración 506: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:17 [PrometheusCore] Error en iteración 507: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:22 [PrometheusCore] Error en iteración 508: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:27 [PrometheusCore] Error en iteración 509: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:32 [PrometheusCore] Error en iteración 510: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:37 [PrometheusCore] Error en iteración 511: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:42 [PrometheusCore] Error en iteración 512: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:47 [PrometheusCore] Error en iteración 513: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:52 [PrometheusCore] Error en iteración 514: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:35:57 [PrometheusCore] Error en iteración 515: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:02 [PrometheusCore] Error en iteración 516: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:07 [PrometheusCore] Error en iteración 517: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:12 [PrometheusCore] Error en iteración 518: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:17 [PrometheusCore] Error en iteración 519: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:22 [PrometheusCore] Error en iteración 520: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:27 [PrometheusCore] Error en iteración 521: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:32 [PrometheusCore] Error en iteración 522: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:37 [PrometheusCore] Error en iteración 523: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:42 [PrometheusCore] Error en iteración 524: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:47 [PrometheusCore] Error en iteración 525: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:52 [PrometheusCore] Error en iteración 526: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:36:57 [PrometheusCore] Error en iteración 527: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:02 [PrometheusCore] Error en iteración 528: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:07 [PrometheusCore] Error en iteración 529: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:12 [PrometheusCore] Error en iteración 530: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:17 [PrometheusCore] Error en iteración 531: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:22 [PrometheusCore] Error en iteración 532: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:27 [PrometheusCore] Error en iteración 533: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:32 [PrometheusCore] Error en iteración 534: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:37 [PrometheusCore] Error en iteración 535: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:42 [PrometheusCore] Error en iteración 536: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:47 [PrometheusCore] Error en iteración 537: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:52 [PrometheusCore] Error en iteración 538: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:37:57 [PrometheusCore] Error en iteración 539: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:02 [PrometheusCore] Error en iteración 540: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:07 [PrometheusCore] Error en iteración 541: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:12 [PrometheusCore] Error en iteración 542: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:17 [PrometheusCore] Error en iteración 543: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:22 [PrometheusCore] Error en iteración 544: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:27 [PrometheusCore] Error en iteración 545: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:32 [PrometheusCore] Error en iteración 546: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:37 [PrometheusCore] Error en iteración 547: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:42 [PrometheusCore] Error en iteración 548: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:47 [PrometheusCore] Error en iteración 549: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:52 [PrometheusCore] Error en iteración 550: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:38:57 [PrometheusCore] Error en iteración 551: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:02 [PrometheusCore] Error en iteración 552: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:07 [PrometheusCore] Error en iteración 553: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:12 [PrometheusCore] Error en iteración 554: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:17 [PrometheusCore] Error en iteración 555: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:22 [PrometheusCore] Error en iteración 556: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:27 [PrometheusCore] Error en iteración 557: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:32 [PrometheusCore] Error en iteración 558: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:37 [PrometheusCore] Error en iteración 559: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:42 [PrometheusCore] Error en iteración 560: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:47 [PrometheusCore] Error en iteración 561: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:52 [PrometheusCore] Error en iteración 562: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:39:57 [PrometheusCore] Error en iteración 563: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:02 [PrometheusCore] Error en iteración 564: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:07 [PrometheusCore] Error en iteración 565: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:12 [PrometheusCore] Error en iteración 566: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:17 [PrometheusCore] Error en iteración 567: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:22 [PrometheusCore] Error en iteración 568: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:27 [PrometheusCore] Error en iteración 569: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:32 [PrometheusCore] Error en iteración 570: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:37 [PrometheusCore] Error en iteración 571: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:42 [PrometheusCore] Error en iteración 572: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:47 [PrometheusCore] Error en iteración 573: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:52 [PrometheusCore] Error en iteración 574: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:40:57 [PrometheusCore] Error en iteración 575: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:02 [PrometheusCore] Error en iteración 576: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:07 [PrometheusCore] Error en iteración 577: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:12 [PrometheusCore] Error en iteración 578: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:17 [PrometheusCore] Error en iteración 579: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:22 [PrometheusCore] Error en iteración 580: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:27 [PrometheusCore] Error en iteración 581: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:32 [PrometheusCore] Error en iteración 582: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:37 [PrometheusCore] Error en iteración 583: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:42 [PrometheusCore] Error en iteración 584: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:47 [PrometheusCore] Error en iteración 585: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:52 [PrometheusCore] Error en iteración 586: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:41:57 [PrometheusCore] Error en iteración 587: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:02 [PrometheusCore] Error en iteración 588: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:07 [PrometheusCore] Error en iteración 589: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:12 [PrometheusCore] Error en iteración 590: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:17 [PrometheusCore] Error en iteración 591: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:22 [PrometheusCore] Error en iteración 592: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:27 [PrometheusCore] Error en iteración 593: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:32 [PrometheusCore] Error en iteración 594: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:37 [PrometheusCore] Error en iteración 595: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:42 [PrometheusCore] Error en iteración 596: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:47 [PrometheusCore] Error en iteración 597: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:52 [PrometheusCore] Error en iteración 598: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:42:57 [PrometheusCore] Error en iteración 599: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:02 [PrometheusCore] Error en iteración 600: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:07 [PrometheusCore] Error en iteración 601: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:12 [PrometheusCore] Error en iteración 602: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:17 [PrometheusCore] Error en iteración 603: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:22 [PrometheusCore] Error en iteración 604: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:27 [PrometheusCore] Error en iteración 605: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:32 [PrometheusCore] Error en iteración 606: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:37 [PrometheusCore] Error en iteración 607: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:42 [PrometheusCore] Error en iteración 608: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:47 [PrometheusCore] Error en iteración 609: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:52 [PrometheusCore] Error en iteración 610: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:43:57 [PrometheusCore] Error en iteración 611: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:02 [PrometheusCore] Error en iteración 612: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:07 [PrometheusCore] Error en iteración 613: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:12 [PrometheusCore] Error en iteración 614: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:17 [PrometheusCore] Error en iteración 615: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:22 [PrometheusCore] Error en iteración 616: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:27 [PrometheusCore] Error en iteración 617: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:32 [PrometheusCore] Error en iteración 618: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:37 [PrometheusCore] Error en iteración 619: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:42 [PrometheusCore] Error en iteración 620: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:47 [PrometheusCore] Error en iteración 621: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:52 [PrometheusCore] Error en iteración 622: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:44:57 [PrometheusCore] Error en iteración 623: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:02 [PrometheusCore] Error en iteración 624: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:07 [PrometheusCore] Error en iteración 625: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:12 [PrometheusCore] Error en iteración 626: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:17 [PrometheusCore] Error en iteración 627: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:22 [PrometheusCore] Error en iteración 628: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:27 [PrometheusCore] Error en iteración 629: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:32 [PrometheusCore] Error en iteración 630: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:37 [PrometheusCore] Error en iteración 631: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:42 [PrometheusCore] Error en iteración 632: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:47 [PrometheusCore] Error en iteración 633: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:52 [PrometheusCore] Error en iteración 634: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:45:57 [PrometheusCore] Error en iteración 635: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:02 [PrometheusCore] Error en iteración 636: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:07 [PrometheusCore] Error en iteración 637: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:12 [PrometheusCore] Error en iteración 638: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:17 [PrometheusCore] Error en iteración 639: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:22 [PrometheusCore] Error en iteración 640: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:27 [PrometheusCore] Error en iteración 641: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:32 [PrometheusCore] Error en iteración 642: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:37 [PrometheusCore] Error en iteración 643: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:42 [PrometheusCore] Error en iteración 644: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:47 [PrometheusCore] Error en iteración 645: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:52 [PrometheusCore] Error en iteración 646: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:46:57 [PrometheusCore] Error en iteración 647: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:02 [PrometheusCore] Error en iteración 648: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:07 [PrometheusCore] Error en iteración 649: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:12 [PrometheusCore] Error en iteración 650: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:17 [PrometheusCore] Error en iteración 651: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:22 [PrometheusCore] Error en iteración 652: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:27 [PrometheusCore] Error en iteración 653: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:32 [PrometheusCore] Error en iteración 654: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:37 [PrometheusCore] Error en iteración 655: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:42 [PrometheusCore] Error en iteración 656: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:47 [PrometheusCore] Error en iteración 657: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:52 [PrometheusCore] Error en iteración 658: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:47:57 [PrometheusCore] Error en iteración 659: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:02 [PrometheusCore] Error en iteración 660: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:07 [PrometheusCore] Error en iteración 661: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:12 [PrometheusCore] Error en iteración 662: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:17 [PrometheusCore] Error en iteración 663: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:22 [PrometheusCore] Error en iteración 664: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:27 [PrometheusCore] Error en iteración 665: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:32 [PrometheusCore] Error en iteración 666: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:37 [PrometheusCore] Error en iteración 667: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:42 [PrometheusCore] Error en iteración 668: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:47 [PrometheusCore] Error en iteración 669: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:52 [PrometheusCore] Error en iteración 670: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:48:57 [PrometheusCore] Error en iteración 671: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:02 [PrometheusCore] Error en iteración 672: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:07 [PrometheusCore] Error en iteración 673: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:12 [PrometheusCore] Error en iteración 674: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:17 [PrometheusCore] Error en iteración 675: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:22 [PrometheusCore] Error en iteración 676: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:27 [PrometheusCore] Error en iteración 677: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:32 [PrometheusCore] Error en iteración 678: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:37 [PrometheusCore] Error en iteración 679: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:42 [PrometheusCore] Error en iteración 680: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:47 [PrometheusCore] Error en iteración 681: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:52 [PrometheusCore] Error en iteración 682: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:49:57 [PrometheusCore] Error en iteración 683: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:02 [PrometheusCore] Error en iteración 684: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:07 [PrometheusCore] Error en iteración 685: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:12 [PrometheusCore] Error en iteración 686: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:17 [PrometheusCore] Error en iteración 687: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:22 [PrometheusCore] Error en iteración 688: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:27 [PrometheusCore] Error en iteración 689: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:32 [PrometheusCore] Error en iteración 690: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:37 [PrometheusCore] Error en iteración 691: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:42 [PrometheusCore] Error en iteración 692: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:47 [PrometheusCore] Error en iteración 693: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:52 [PrometheusCore] Error en iteración 694: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:50:57 [PrometheusCore] Error en iteración 695: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:02 [PrometheusCore] Error en iteración 696: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:07 [PrometheusCore] Error en iteración 697: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:12 [PrometheusCore] Error en iteración 698: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:17 [PrometheusCore] Error en iteración 699: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:22 [PrometheusCore] Error en iteración 700: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:27 [PrometheusCore] Error en iteración 701: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:32 [PrometheusCore] Error en iteración 702: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:37 [PrometheusCore] Error en iteración 703: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:42 [PrometheusCore] Error en iteración 704: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:47 [PrometheusCore] Error en iteración 705: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:52 [PrometheusCore] Error en iteración 706: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:51:57 [PrometheusCore] Error en iteración 707: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:02 [PrometheusCore] Error en iteración 708: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:07 [PrometheusCore] Error en iteración 709: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:12 [PrometheusCore] Error en iteración 710: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:17 [PrometheusCore] Error en iteración 711: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:22 [PrometheusCore] Error en iteración 712: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:27 [PrometheusCore] Error en iteración 713: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:32 [PrometheusCore] Error en iteración 714: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:37 [PrometheusCore] Error en iteración 715: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:42 [PrometheusCore] Error en iteración 716: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:47 [PrometheusCore] Error en iteración 717: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:52 [PrometheusCore] Error en iteración 718: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:52:57 [PrometheusCore] Error en iteración 719: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:02 [PrometheusCore] Error en iteración 720: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:07 [PrometheusCore] Error en iteración 721: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:12 [PrometheusCore] Error en iteración 722: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:17 [PrometheusCore] Error en iteración 723: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:22 [PrometheusCore] Error en iteración 724: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:27 [PrometheusCore] Error en iteración 725: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:32 [PrometheusCore] Error en iteración 726: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:37 [PrometheusCore] Error en iteración 727: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:42 [PrometheusCore] Error en iteración 728: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:47 [PrometheusCore] Error en iteración 729: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:52 [PrometheusCore] Error en iteración 730: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:53:57 [PrometheusCore] Error en iteración 731: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:02 [PrometheusCore] Error en iteración 732: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:07 [PrometheusCore] Error en iteración 733: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:12 [PrometheusCore] Error en iteración 734: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:17 [PrometheusCore] Error en iteración 735: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:22 [PrometheusCore] Error en iteración 736: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:27 [PrometheusCore] Error en iteración 737: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:32 [PrometheusCore] Error en iteración 738: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:37 [PrometheusCore] Error en iteración 739: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:42 [PrometheusCore] Error en iteración 740: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:47 [PrometheusCore] Error en iteración 741: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:52 [PrometheusCore] Error en iteración 742: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:54:57 [PrometheusCore] Error en iteración 743: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:02 [PrometheusCore] Error en iteración 744: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:07 [PrometheusCore] Error en iteración 745: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:12 [PrometheusCore] Error en iteración 746: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:17 [PrometheusCore] Error en iteración 747: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:22 [PrometheusCore] Error en iteración 748: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:27 [PrometheusCore] Error en iteración 749: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:32 [PrometheusCore] Error en iteración 750: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:37 [PrometheusCore] Error en iteración 751: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:42 [PrometheusCore] Error en iteración 752: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:47 [PrometheusCore] Error en iteración 753: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:52 [PrometheusCore] Error en iteración 754: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:55:57 [PrometheusCore] Error en iteración 755: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:02 [PrometheusCore] Error en iteración 756: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:07 [PrometheusCore] Error en iteración 757: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:12 [PrometheusCore] Error en iteración 758: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:17 [PrometheusCore] Error en iteración 759: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:22 [PrometheusCore] Error en iteración 760: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:27 [PrometheusCore] Error en iteración 761: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:32 [PrometheusCore] Error en iteración 762: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:37 [PrometheusCore] Error en iteración 763: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:42 [PrometheusCore] Error en iteración 764: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:47 [PrometheusCore] Error en iteración 765: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:52 [PrometheusCore] Error en iteración 766: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:56:57 [PrometheusCore] Error en iteración 767: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:02 [PrometheusCore] Error en iteración 768: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:07 [PrometheusCore] Error en iteración 769: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:12 [PrometheusCore] Error en iteración 770: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:17 [PrometheusCore] Error en iteración 771: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:22 [PrometheusCore] Error en iteración 772: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:27 [PrometheusCore] Error en iteración 773: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:32 [PrometheusCore] Error en iteración 774: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:37 [PrometheusCore] Error en iteración 775: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:42 [PrometheusCore] Error en iteración 776: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:47 [PrometheusCore] Error en iteración 777: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:52 [PrometheusCore] Error en iteración 778: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:57:57 [PrometheusCore] Error en iteración 779: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:02 [PrometheusCore] Error en iteración 780: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:07 [PrometheusCore] Error en iteración 781: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:12 [PrometheusCore] Error en iteración 782: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:17 [PrometheusCore] Error en iteración 783: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:22 [PrometheusCore] Error en iteración 784: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:27 [PrometheusCore] Error en iteración 785: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:32 [PrometheusCore] Error en iteración 786: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:37 [PrometheusCore] Error en iteración 787: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:42 [PrometheusCore] Error en iteración 788: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:47 [PrometheusCore] Error en iteración 789: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:52 [PrometheusCore] Error en iteración 790: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:58:57 [PrometheusCore] Error en iteración 791: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:02 [PrometheusCore] Error en iteración 792: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:07 [PrometheusCore] Error en iteración 793: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:12 [PrometheusCore] Error en iteración 794: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:17 [PrometheusCore] Error en iteración 795: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:22 [PrometheusCore] Error en iteración 796: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:27 [PrometheusCore] Error en iteración 797: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:32 [PrometheusCore] Error en iteración 798: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:37 [PrometheusCore] Error en iteración 799: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:42 [PrometheusCore] Error en iteración 800: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:47 [PrometheusCore] Error en iteración 801: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:52 [PrometheusCore] Error en iteración 802: Expecting value: line 1 column 1 (char 0)
+2026-02-28 03:59:57 [PrometheusCore] Error en iteración 803: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:02 [PrometheusCore] Error en iteración 804: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:07 [PrometheusCore] Error en iteración 805: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:12 [PrometheusCore] Error en iteración 806: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:17 [PrometheusCore] Error en iteración 807: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:22 [PrometheusCore] Error en iteración 808: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:27 [PrometheusCore] Error en iteración 809: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:32 [PrometheusCore] Error en iteración 810: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:37 [PrometheusCore] Error en iteración 811: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:42 [PrometheusCore] Error en iteración 812: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:47 [PrometheusCore] Error en iteración 813: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:52 [PrometheusCore] Error en iteración 814: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:00:57 [PrometheusCore] Error en iteración 815: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:02 [PrometheusCore] Error en iteración 816: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:07 [PrometheusCore] Error en iteración 817: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:12 [PrometheusCore] Error en iteración 818: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:17 [PrometheusCore] Error en iteración 819: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:22 [PrometheusCore] Error en iteración 820: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:27 [PrometheusCore] Error en iteración 821: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:32 [PrometheusCore] Error en iteración 822: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:37 [PrometheusCore] Error en iteración 823: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:42 [PrometheusCore] Error en iteración 824: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:47 [PrometheusCore] Error en iteración 825: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:52 [PrometheusCore] Error en iteración 826: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:01:57 [PrometheusCore] Error en iteración 827: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:02 [PrometheusCore] Error en iteración 828: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:07 [PrometheusCore] Error en iteración 829: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:12 [PrometheusCore] Error en iteración 830: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:17 [PrometheusCore] Error en iteración 831: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:22 [PrometheusCore] Error en iteración 832: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:27 [PrometheusCore] Error en iteración 833: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:32 [PrometheusCore] Error en iteración 834: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:37 [PrometheusCore] Error en iteración 835: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:42 [PrometheusCore] Error en iteración 836: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:47 [PrometheusCore] Error en iteración 837: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:52 [PrometheusCore] Error en iteración 838: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:02:57 [PrometheusCore] Error en iteración 839: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:02 [PrometheusCore] Error en iteración 840: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:07 [PrometheusCore] Error en iteración 841: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:12 [PrometheusCore] Error en iteración 842: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:17 [PrometheusCore] Error en iteración 843: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:22 [PrometheusCore] Error en iteración 844: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:27 [PrometheusCore] Error en iteración 845: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:32 [PrometheusCore] Error en iteración 846: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:37 [PrometheusCore] Error en iteración 847: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:42 [PrometheusCore] Error en iteración 848: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:47 [PrometheusCore] Error en iteración 849: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:52 [PrometheusCore] Error en iteración 850: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:03:57 [PrometheusCore] Error en iteración 851: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:02 [PrometheusCore] Error en iteración 852: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:07 [PrometheusCore] Error en iteración 853: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:12 [PrometheusCore] Error en iteración 854: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:17 [PrometheusCore] Error en iteración 855: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:22 [PrometheusCore] Error en iteración 856: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:27 [PrometheusCore] Error en iteración 857: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:32 [PrometheusCore] Error en iteración 858: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:37 [PrometheusCore] Error en iteración 859: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:42 [PrometheusCore] Error en iteración 860: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:47 [PrometheusCore] Error en iteración 861: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:52 [PrometheusCore] Error en iteración 862: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:04:57 [PrometheusCore] Error en iteración 863: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:02 [PrometheusCore] Error en iteración 864: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:07 [PrometheusCore] Error en iteración 865: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:12 [PrometheusCore] Error en iteración 866: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:17 [PrometheusCore] Error en iteración 867: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:22 [PrometheusCore] Error en iteración 868: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:27 [PrometheusCore] Error en iteración 869: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:32 [PrometheusCore] Error en iteración 870: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:37 [PrometheusCore] Error en iteración 871: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:42 [PrometheusCore] Error en iteración 872: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:47 [PrometheusCore] Error en iteración 873: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:52 [PrometheusCore] Error en iteración 874: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:05:57 [PrometheusCore] Error en iteración 875: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:02 [PrometheusCore] Error en iteración 876: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:07 [PrometheusCore] Error en iteración 877: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:12 [PrometheusCore] Error en iteración 878: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:17 [PrometheusCore] Error en iteración 879: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:22 [PrometheusCore] Error en iteración 880: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:27 [PrometheusCore] Error en iteración 881: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:32 [PrometheusCore] Error en iteración 882: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:37 [PrometheusCore] Error en iteración 883: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:42 [PrometheusCore] Error en iteración 884: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:47 [PrometheusCore] Error en iteración 885: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:52 [PrometheusCore] Error en iteración 886: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:06:57 [PrometheusCore] Error en iteración 887: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:02 [PrometheusCore] Error en iteración 888: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:07 [PrometheusCore] Error en iteración 889: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:12 [PrometheusCore] Error en iteración 890: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:17 [PrometheusCore] Error en iteración 891: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:22 [PrometheusCore] Error en iteración 892: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:27 [PrometheusCore] Error en iteración 893: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:32 [PrometheusCore] Error en iteración 894: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:37 [PrometheusCore] Error en iteración 895: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:42 [PrometheusCore] Error en iteración 896: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:47 [PrometheusCore] Error en iteración 897: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:52 [PrometheusCore] Error en iteración 898: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:07:57 [PrometheusCore] Error en iteración 899: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:02 [PrometheusCore] Error en iteración 900: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:07 [PrometheusCore] Error en iteración 901: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:12 [PrometheusCore] Error en iteración 902: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:17 [PrometheusCore] Error en iteración 903: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:22 [PrometheusCore] Error en iteración 904: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:27 [PrometheusCore] Error en iteración 905: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:32 [PrometheusCore] Error en iteración 906: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:37 [PrometheusCore] Error en iteración 907: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:42 [PrometheusCore] Error en iteración 908: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:47 [PrometheusCore] Error en iteración 909: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:52 [PrometheusCore] Error en iteración 910: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:08:57 [PrometheusCore] Error en iteración 911: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:02 [PrometheusCore] Error en iteración 912: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:07 [PrometheusCore] Error en iteración 913: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:12 [PrometheusCore] Error en iteración 914: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:17 [PrometheusCore] Error en iteración 915: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:22 [PrometheusCore] Error en iteración 916: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:27 [PrometheusCore] Error en iteración 917: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:32 [PrometheusCore] Error en iteración 918: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:37 [PrometheusCore] Error en iteración 919: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:42 [PrometheusCore] Error en iteración 920: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:47 [PrometheusCore] Error en iteración 921: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:52 [PrometheusCore] Error en iteración 922: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:09:57 [PrometheusCore] Error en iteración 923: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:02 [PrometheusCore] Error en iteración 924: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:07 [PrometheusCore] Error en iteración 925: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:12 [PrometheusCore] Error en iteración 926: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:17 [PrometheusCore] Error en iteración 927: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:22 [PrometheusCore] Error en iteración 928: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:27 [PrometheusCore] Error en iteración 929: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:32 [PrometheusCore] Error en iteración 930: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:37 [PrometheusCore] Error en iteración 931: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:42 [PrometheusCore] Error en iteración 932: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:47 [PrometheusCore] Error en iteración 933: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:52 [PrometheusCore] Error en iteración 934: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:10:57 [PrometheusCore] Error en iteración 935: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:02 [PrometheusCore] Error en iteración 936: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:07 [PrometheusCore] Error en iteración 937: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:12 [PrometheusCore] Error en iteración 938: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:17 [PrometheusCore] Error en iteración 939: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:22 [PrometheusCore] Error en iteración 940: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:27 [PrometheusCore] Error en iteración 941: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:32 [PrometheusCore] Error en iteración 942: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:37 [PrometheusCore] Error en iteración 943: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:42 [PrometheusCore] Error en iteración 944: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:47 [PrometheusCore] Error en iteración 945: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:52 [PrometheusCore] Error en iteración 946: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:11:57 [PrometheusCore] Error en iteración 947: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:02 [PrometheusCore] Error en iteración 948: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:07 [PrometheusCore] Error en iteración 949: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:12 [PrometheusCore] Error en iteración 950: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:17 [PrometheusCore] Error en iteración 951: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:22 [PrometheusCore] Error en iteración 952: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:27 [PrometheusCore] Error en iteración 953: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:32 [PrometheusCore] Error en iteración 954: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:37 [PrometheusCore] Error en iteración 955: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:42 [PrometheusCore] Error en iteración 956: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:47 [PrometheusCore] Error en iteración 957: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:52 [PrometheusCore] Error en iteración 958: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:12:57 [PrometheusCore] Error en iteración 959: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:02 [PrometheusCore] Error en iteración 960: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:07 [PrometheusCore] Error en iteración 961: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:12 [PrometheusCore] Error en iteración 962: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:17 [PrometheusCore] Error en iteración 963: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:22 [PrometheusCore] Error en iteración 964: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:27 [PrometheusCore] Error en iteración 965: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:32 [PrometheusCore] Error en iteración 966: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:37 [PrometheusCore] Error en iteración 967: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:42 [PrometheusCore] Error en iteración 968: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:47 [PrometheusCore] Error en iteración 969: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:52 [PrometheusCore] Error en iteración 970: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:13:57 [PrometheusCore] Error en iteración 971: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:02 [PrometheusCore] Error en iteración 972: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:07 [PrometheusCore] Error en iteración 973: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:12 [PrometheusCore] Error en iteración 974: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:17 [PrometheusCore] Error en iteración 975: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:22 [PrometheusCore] Error en iteración 976: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:27 [PrometheusCore] Error en iteración 977: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:32 [PrometheusCore] Error en iteración 978: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:37 [PrometheusCore] Error en iteración 979: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:42 [PrometheusCore] Error en iteración 980: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:47 [PrometheusCore] Error en iteración 981: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:52 [PrometheusCore] Error en iteración 982: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:14:57 [PrometheusCore] Error en iteración 983: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:02 [PrometheusCore] Error en iteración 984: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:07 [PrometheusCore] Error en iteración 985: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:12 [PrometheusCore] Error en iteración 986: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:17 [PrometheusCore] Error en iteración 987: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:22 [PrometheusCore] Error en iteración 988: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:27 [PrometheusCore] Error en iteración 989: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:32 [PrometheusCore] Error en iteración 990: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:37 [PrometheusCore] Error en iteración 991: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:42 [PrometheusCore] Error en iteración 992: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:47 [PrometheusCore] Error en iteración 993: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:52 [PrometheusCore] Error en iteración 994: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:15:57 [PrometheusCore] Error en iteración 995: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:02 [PrometheusCore] Error en iteración 996: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:07 [PrometheusCore] Error en iteración 997: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:12 [PrometheusCore] Error en iteración 998: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:17 [PrometheusCore] Error en iteración 999: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:22 [PrometheusCore] Error en iteración 1000: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:27 [PrometheusCore] Error en iteración 1001: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:32 [PrometheusCore] Error en iteración 1002: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:37 [PrometheusCore] Error en iteración 1003: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:42 [PrometheusCore] Error en iteración 1004: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:47 [PrometheusCore] Error en iteración 1005: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:52 [PrometheusCore] Error en iteración 1006: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:16:57 [PrometheusCore] Error en iteración 1007: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:02 [PrometheusCore] Error en iteración 1008: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:07 [PrometheusCore] Error en iteración 1009: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:12 [PrometheusCore] Error en iteración 1010: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:17 [PrometheusCore] Error en iteración 1011: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:22 [PrometheusCore] Error en iteración 1012: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:27 [PrometheusCore] Error en iteración 1013: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:32 [PrometheusCore] Error en iteración 1014: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:37 [PrometheusCore] Error en iteración 1015: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:42 [PrometheusCore] Error en iteración 1016: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:47 [PrometheusCore] Error en iteración 1017: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:52 [PrometheusCore] Error en iteración 1018: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:17:57 [PrometheusCore] Error en iteración 1019: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:02 [PrometheusCore] Error en iteración 1020: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:07 [PrometheusCore] Error en iteración 1021: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:12 [PrometheusCore] Error en iteración 1022: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:17 [PrometheusCore] Error en iteración 1023: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:22 [PrometheusCore] Error en iteración 1024: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:27 [PrometheusCore] Error en iteración 1025: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:32 [PrometheusCore] Error en iteración 1026: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:37 [PrometheusCore] Error en iteración 1027: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:42 [PrometheusCore] Error en iteración 1028: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:47 [PrometheusCore] Error en iteración 1029: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:52 [PrometheusCore] Error en iteración 1030: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:18:57 [PrometheusCore] Error en iteración 1031: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:02 [PrometheusCore] Error en iteración 1032: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:07 [PrometheusCore] Error en iteración 1033: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:12 [PrometheusCore] Error en iteración 1034: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:17 [PrometheusCore] Error en iteración 1035: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:22 [PrometheusCore] Error en iteración 1036: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:27 [PrometheusCore] Error en iteración 1037: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:32 [PrometheusCore] Error en iteración 1038: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:37 [PrometheusCore] Error en iteración 1039: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:42 [PrometheusCore] Error en iteración 1040: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:47 [PrometheusCore] Error en iteración 1041: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:52 [PrometheusCore] Error en iteración 1042: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:19:57 [PrometheusCore] Error en iteración 1043: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:02 [PrometheusCore] Error en iteración 1044: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:07 [PrometheusCore] Error en iteración 1045: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:12 [PrometheusCore] Error en iteración 1046: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:17 [PrometheusCore] Error en iteración 1047: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:22 [PrometheusCore] Error en iteración 1048: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:27 [PrometheusCore] Error en iteración 1049: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:32 [PrometheusCore] Error en iteración 1050: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:37 [PrometheusCore] Error en iteración 1051: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:42 [PrometheusCore] Error en iteración 1052: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:47 [PrometheusCore] Error en iteración 1053: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:52 [PrometheusCore] Error en iteración 1054: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:20:57 [PrometheusCore] Error en iteración 1055: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:02 [PrometheusCore] Error en iteración 1056: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:07 [PrometheusCore] Error en iteración 1057: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:12 [PrometheusCore] Error en iteración 1058: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:17 [PrometheusCore] Error en iteración 1059: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:22 [PrometheusCore] Error en iteración 1060: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:27 [PrometheusCore] Error en iteración 1061: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:32 [PrometheusCore] Error en iteración 1062: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:37 [PrometheusCore] Error en iteración 1063: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:42 [PrometheusCore] Error en iteración 1064: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:47 [PrometheusCore] Error en iteración 1065: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:52 [PrometheusCore] Error en iteración 1066: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:21:57 [PrometheusCore] Error en iteración 1067: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:02 [PrometheusCore] Error en iteración 1068: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:07 [PrometheusCore] Error en iteración 1069: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:12 [PrometheusCore] Error en iteración 1070: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:17 [PrometheusCore] Error en iteración 1071: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:22 [PrometheusCore] Error en iteración 1072: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:27 [PrometheusCore] Error en iteración 1073: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:32 [PrometheusCore] Error en iteración 1074: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:37 [PrometheusCore] Error en iteración 1075: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:42 [PrometheusCore] Error en iteración 1076: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:47 [PrometheusCore] Error en iteración 1077: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:52 [PrometheusCore] Error en iteración 1078: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:22:57 [PrometheusCore] Error en iteración 1079: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:02 [PrometheusCore] Error en iteración 1080: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:07 [PrometheusCore] Error en iteración 1081: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:12 [PrometheusCore] Error en iteración 1082: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:17 [PrometheusCore] Error en iteración 1083: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:22 [PrometheusCore] Error en iteración 1084: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:27 [PrometheusCore] Error en iteración 1085: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:32 [PrometheusCore] Error en iteración 1086: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:37 [PrometheusCore] Error en iteración 1087: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:42 [PrometheusCore] Error en iteración 1088: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:47 [PrometheusCore] Error en iteración 1089: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:52 [PrometheusCore] Error en iteración 1090: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:23:57 [PrometheusCore] Error en iteración 1091: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:02 [PrometheusCore] Error en iteración 1092: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:07 [PrometheusCore] Error en iteración 1093: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:12 [PrometheusCore] Error en iteración 1094: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:17 [PrometheusCore] Error en iteración 1095: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:22 [PrometheusCore] Error en iteración 1096: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:27 [PrometheusCore] Error en iteración 1097: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:32 [PrometheusCore] Error en iteración 1098: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:37 [PrometheusCore] Error en iteración 1099: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:42 [PrometheusCore] Error en iteración 1100: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:47 [PrometheusCore] Error en iteración 1101: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:52 [PrometheusCore] Error en iteración 1102: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:24:57 [PrometheusCore] Error en iteración 1103: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:02 [PrometheusCore] Error en iteración 1104: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:07 [PrometheusCore] Error en iteración 1105: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:12 [PrometheusCore] Error en iteración 1106: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:17 [PrometheusCore] Error en iteración 1107: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:22 [PrometheusCore] Error en iteración 1108: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:27 [PrometheusCore] Error en iteración 1109: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:32 [PrometheusCore] Error en iteración 1110: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:37 [PrometheusCore] Error en iteración 1111: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:42 [PrometheusCore] Error en iteración 1112: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:47 [PrometheusCore] Error en iteración 1113: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:52 [PrometheusCore] Error en iteración 1114: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:25:57 [PrometheusCore] Error en iteración 1115: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:02 [PrometheusCore] Error en iteración 1116: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:07 [PrometheusCore] Error en iteración 1117: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:12 [PrometheusCore] Error en iteración 1118: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:17 [PrometheusCore] Error en iteración 1119: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:22 [PrometheusCore] Error en iteración 1120: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:27 [PrometheusCore] Error en iteración 1121: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:32 [PrometheusCore] Error en iteración 1122: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:37 [PrometheusCore] Error en iteración 1123: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:42 [PrometheusCore] Error en iteración 1124: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:47 [PrometheusCore] Error en iteración 1125: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:52 [PrometheusCore] Error en iteración 1126: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:26:57 [PrometheusCore] Error en iteración 1127: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:02 [PrometheusCore] Error en iteración 1128: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:07 [PrometheusCore] Error en iteración 1129: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:12 [PrometheusCore] Error en iteración 1130: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:17 [PrometheusCore] Error en iteración 1131: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:22 [PrometheusCore] Error en iteración 1132: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:27 [PrometheusCore] Error en iteración 1133: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:32 [PrometheusCore] Error en iteración 1134: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:37 [PrometheusCore] Error en iteración 1135: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:42 [PrometheusCore] Error en iteración 1136: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:47 [PrometheusCore] Error en iteración 1137: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:52 [PrometheusCore] Error en iteración 1138: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:27:57 [PrometheusCore] Error en iteración 1139: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:02 [PrometheusCore] Error en iteración 1140: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:07 [PrometheusCore] Error en iteración 1141: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:12 [PrometheusCore] Error en iteración 1142: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:17 [PrometheusCore] Error en iteración 1143: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:22 [PrometheusCore] Error en iteración 1144: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:27 [PrometheusCore] Error en iteración 1145: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:32 [PrometheusCore] Error en iteración 1146: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:37 [PrometheusCore] Error en iteración 1147: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:42 [PrometheusCore] Error en iteración 1148: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:47 [PrometheusCore] Error en iteración 1149: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:52 [PrometheusCore] Error en iteración 1150: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:28:57 [PrometheusCore] Error en iteración 1151: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:02 [PrometheusCore] Error en iteración 1152: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:07 [PrometheusCore] Error en iteración 1153: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:12 [PrometheusCore] Error en iteración 1154: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:17 [PrometheusCore] Error en iteración 1155: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:22 [PrometheusCore] Error en iteración 1156: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:27 [PrometheusCore] Error en iteración 1157: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:32 [PrometheusCore] Error en iteración 1158: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:37 [PrometheusCore] Error en iteración 1159: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:42 [PrometheusCore] Error en iteración 1160: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:47 [PrometheusCore] Error en iteración 1161: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:52 [PrometheusCore] Error en iteración 1162: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:29:57 [PrometheusCore] Error en iteración 1163: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:02 [PrometheusCore] Error en iteración 1164: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:07 [PrometheusCore] Error en iteración 1165: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:12 [PrometheusCore] Error en iteración 1166: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:17 [PrometheusCore] Error en iteración 1167: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:22 [PrometheusCore] Error en iteración 1168: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:27 [PrometheusCore] Error en iteración 1169: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:32 [PrometheusCore] Error en iteración 1170: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:37 [PrometheusCore] Error en iteración 1171: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:42 [PrometheusCore] Error en iteración 1172: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:47 [PrometheusCore] Error en iteración 1173: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:52 [PrometheusCore] Error en iteración 1174: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:30:57 [PrometheusCore] Error en iteración 1175: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:02 [PrometheusCore] Error en iteración 1176: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:07 [PrometheusCore] Error en iteración 1177: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:12 [PrometheusCore] Error en iteración 1178: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:17 [PrometheusCore] Error en iteración 1179: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:22 [PrometheusCore] Error en iteración 1180: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:27 [PrometheusCore] Error en iteración 1181: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:32 [PrometheusCore] Error en iteración 1182: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:37 [PrometheusCore] Error en iteración 1183: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:42 [PrometheusCore] Error en iteración 1184: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:47 [PrometheusCore] Error en iteración 1185: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:52 [PrometheusCore] Error en iteración 1186: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:31:57 [PrometheusCore] Error en iteración 1187: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:02 [PrometheusCore] Error en iteración 1188: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:07 [PrometheusCore] Error en iteración 1189: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:12 [PrometheusCore] Error en iteración 1190: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:17 [PrometheusCore] Error en iteración 1191: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:22 [PrometheusCore] Error en iteración 1192: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:27 [PrometheusCore] Error en iteración 1193: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:32 [PrometheusCore] Error en iteración 1194: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:37 [PrometheusCore] Error en iteración 1195: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:42 [PrometheusCore] Error en iteración 1196: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:47 [PrometheusCore] Error en iteración 1197: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:52 [PrometheusCore] Error en iteración 1198: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:32:57 [PrometheusCore] Error en iteración 1199: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:02 [PrometheusCore] Error en iteración 1200: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:07 [PrometheusCore] Error en iteración 1201: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:12 [PrometheusCore] Error en iteración 1202: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:17 [PrometheusCore] Error en iteración 1203: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:22 [PrometheusCore] Error en iteración 1204: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:27 [PrometheusCore] Error en iteración 1205: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:32 [PrometheusCore] Error en iteración 1206: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:37 [PrometheusCore] Error en iteración 1207: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:42 [PrometheusCore] Error en iteración 1208: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:47 [PrometheusCore] Error en iteración 1209: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:52 [PrometheusCore] Error en iteración 1210: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:33:57 [PrometheusCore] Error en iteración 1211: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:02 [PrometheusCore] Error en iteración 1212: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:07 [PrometheusCore] Error en iteración 1213: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:12 [PrometheusCore] Error en iteración 1214: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:17 [PrometheusCore] Error en iteración 1215: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:22 [PrometheusCore] Error en iteración 1216: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:27 [PrometheusCore] Error en iteración 1217: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:32 [PrometheusCore] Error en iteración 1218: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:37 [PrometheusCore] Error en iteración 1219: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:42 [PrometheusCore] Error en iteración 1220: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:47 [PrometheusCore] Error en iteración 1221: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:52 [PrometheusCore] Error en iteración 1222: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:34:57 [PrometheusCore] Error en iteración 1223: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:02 [PrometheusCore] Error en iteración 1224: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:07 [PrometheusCore] Error en iteración 1225: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:12 [PrometheusCore] Error en iteración 1226: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:17 [PrometheusCore] Error en iteración 1227: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:22 [PrometheusCore] Error en iteración 1228: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:27 [PrometheusCore] Error en iteración 1229: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:32 [PrometheusCore] Error en iteración 1230: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:37 [PrometheusCore] Error en iteración 1231: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:42 [PrometheusCore] Error en iteración 1232: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:47 [PrometheusCore] Error en iteración 1233: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:52 [PrometheusCore] Error en iteración 1234: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:35:57 [PrometheusCore] Error en iteración 1235: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:02 [PrometheusCore] Error en iteración 1236: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:07 [PrometheusCore] Error en iteración 1237: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:12 [PrometheusCore] Error en iteración 1238: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:17 [PrometheusCore] Error en iteración 1239: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:22 [PrometheusCore] Error en iteración 1240: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:27 [PrometheusCore] Error en iteración 1241: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:32 [PrometheusCore] Error en iteración 1242: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:37 [PrometheusCore] Error en iteración 1243: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:42 [PrometheusCore] Error en iteración 1244: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:47 [PrometheusCore] Error en iteración 1245: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:52 [PrometheusCore] Error en iteración 1246: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:36:57 [PrometheusCore] Error en iteración 1247: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:02 [PrometheusCore] Error en iteración 1248: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:07 [PrometheusCore] Error en iteración 1249: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:12 [PrometheusCore] Error en iteración 1250: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:17 [PrometheusCore] Error en iteración 1251: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:22 [PrometheusCore] Error en iteración 1252: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:27 [PrometheusCore] Error en iteración 1253: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:32 [PrometheusCore] Error en iteración 1254: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:37 [PrometheusCore] Error en iteración 1255: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:42 [PrometheusCore] Error en iteración 1256: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:47 [PrometheusCore] Error en iteración 1257: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:52 [PrometheusCore] Error en iteración 1258: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:37:57 [PrometheusCore] Error en iteración 1259: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:02 [PrometheusCore] Error en iteración 1260: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:07 [PrometheusCore] Error en iteración 1261: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:12 [PrometheusCore] Error en iteración 1262: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:17 [PrometheusCore] Error en iteración 1263: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:22 [PrometheusCore] Error en iteración 1264: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:27 [PrometheusCore] Error en iteración 1265: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:32 [PrometheusCore] Error en iteración 1266: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:37 [PrometheusCore] Error en iteración 1267: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:42 [PrometheusCore] Error en iteración 1268: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:47 [PrometheusCore] Error en iteración 1269: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:52 [PrometheusCore] Error en iteración 1270: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:38:57 [PrometheusCore] Error en iteración 1271: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:02 [PrometheusCore] Error en iteración 1272: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:07 [PrometheusCore] Error en iteración 1273: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:12 [PrometheusCore] Error en iteración 1274: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:17 [PrometheusCore] Error en iteración 1275: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:22 [PrometheusCore] Error en iteración 1276: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:27 [PrometheusCore] Error en iteración 1277: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:32 [PrometheusCore] Error en iteración 1278: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:37 [PrometheusCore] Error en iteración 1279: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:42 [PrometheusCore] Error en iteración 1280: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:47 [PrometheusCore] Error en iteración 1281: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:52 [PrometheusCore] Error en iteración 1282: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:39:57 [PrometheusCore] Error en iteración 1283: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:02 [PrometheusCore] Error en iteración 1284: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:07 [PrometheusCore] Error en iteración 1285: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:12 [PrometheusCore] Error en iteración 1286: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:17 [PrometheusCore] Error en iteración 1287: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:22 [PrometheusCore] Error en iteración 1288: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:27 [PrometheusCore] Error en iteración 1289: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:32 [PrometheusCore] Error en iteración 1290: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:37 [PrometheusCore] Error en iteración 1291: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:42 [PrometheusCore] Error en iteración 1292: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:47 [PrometheusCore] Error en iteración 1293: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:52 [PrometheusCore] Error en iteración 1294: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:40:57 [PrometheusCore] Error en iteración 1295: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:02 [PrometheusCore] Error en iteración 1296: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:07 [PrometheusCore] Error en iteración 1297: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:12 [PrometheusCore] Error en iteración 1298: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:17 [PrometheusCore] Error en iteración 1299: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:22 [PrometheusCore] Error en iteración 1300: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:27 [PrometheusCore] Error en iteración 1301: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:32 [PrometheusCore] Error en iteración 1302: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:37 [PrometheusCore] Error en iteración 1303: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:42 [PrometheusCore] Error en iteración 1304: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:47 [PrometheusCore] Error en iteración 1305: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:52 [PrometheusCore] Error en iteración 1306: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:41:57 [PrometheusCore] Error en iteración 1307: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:02 [PrometheusCore] Error en iteración 1308: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:07 [PrometheusCore] Error en iteración 1309: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:12 [PrometheusCore] Error en iteración 1310: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:17 [PrometheusCore] Error en iteración 1311: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:22 [PrometheusCore] Error en iteración 1312: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:27 [PrometheusCore] Error en iteración 1313: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:32 [PrometheusCore] Error en iteración 1314: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:37 [PrometheusCore] Error en iteración 1315: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:42 [PrometheusCore] Error en iteración 1316: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:47 [PrometheusCore] Error en iteración 1317: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:52 [PrometheusCore] Error en iteración 1318: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:42:57 [PrometheusCore] Error en iteración 1319: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:02 [PrometheusCore] Error en iteración 1320: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:07 [PrometheusCore] Error en iteración 1321: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:12 [PrometheusCore] Error en iteración 1322: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:17 [PrometheusCore] Error en iteración 1323: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:22 [PrometheusCore] Error en iteración 1324: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:27 [PrometheusCore] Error en iteración 1325: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:32 [PrometheusCore] Error en iteración 1326: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:37 [PrometheusCore] Error en iteración 1327: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:42 [PrometheusCore] Error en iteración 1328: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:47 [PrometheusCore] Error en iteración 1329: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:52 [PrometheusCore] Error en iteración 1330: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:43:57 [PrometheusCore] Error en iteración 1331: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:02 [PrometheusCore] Error en iteración 1332: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:07 [PrometheusCore] Error en iteración 1333: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:12 [PrometheusCore] Error en iteración 1334: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:17 [PrometheusCore] Error en iteración 1335: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:22 [PrometheusCore] Error en iteración 1336: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:27 [PrometheusCore] Error en iteración 1337: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:32 [PrometheusCore] Error en iteración 1338: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:37 [PrometheusCore] Error en iteración 1339: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:42 [PrometheusCore] Error en iteración 1340: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:47 [PrometheusCore] Error en iteración 1341: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:52 [PrometheusCore] Error en iteración 1342: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:44:57 [PrometheusCore] Error en iteración 1343: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:02 [PrometheusCore] Error en iteración 1344: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:07 [PrometheusCore] Error en iteración 1345: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:12 [PrometheusCore] Error en iteración 1346: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:17 [PrometheusCore] Error en iteración 1347: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:22 [PrometheusCore] Error en iteración 1348: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:27 [PrometheusCore] Error en iteración 1349: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:32 [PrometheusCore] Error en iteración 1350: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:37 [PrometheusCore] Error en iteración 1351: Expecting value: line 1 column 1 (char 0)
+2026-02-28 04:45:42 [PrometheusCore] Error en iteración 1352: Expecting value: line 1 column 1 (char 0)
